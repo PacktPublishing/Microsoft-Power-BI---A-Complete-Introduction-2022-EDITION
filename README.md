@@ -1,12 +1,12 @@
 # Supplementary Course Resources
 
-This repository contains .pbix project files and other resources (e.g. slides) that are shown, created or used in our [Power BI - The Practical Guide course](https://acad.link/powerbi).
+This is the code repository for [Microsoft Power BI - A Complete Introduction [Video]](https://www.packtpub.com/virtualization-and-cloud/devops-fundamentals-and-cicd-video?utm_source=github&utm_medium=repository&utm_campaign=9781789347661), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 You may use these resources to compare your project state against our project (e.g. to find + fix errors) or to download and view the slides shown in the lectures.
 
 # How To Find The Right Resources
 
-The resources are organized into various branches. **Every branch (except for the "main" branch) belongs to a specific course section** - the branch name indicates which section it belongs to. For example, the branch [01-getting-started](/academind/power-bi-course-resources/tree/01-getting-started) belongs to the first course section "Getting Started".
+The resources are organized into various branches. **Every branch (except for the "main" branch) belongs to a specific course section** - the branch name indicates which section it belongs to. For example, the branch [01-getting-started](PacktPublishing/Microsoft-Power-BI---A-Complete-Introduction-2022-EDITION/tree/01-getting-started) belongs to the first course section "Getting Started".
 
 The "main" branch contains all source files used in the course and the course slides.
 
