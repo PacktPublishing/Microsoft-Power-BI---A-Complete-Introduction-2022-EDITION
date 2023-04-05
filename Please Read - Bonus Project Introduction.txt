@@ -1,0 +1,4 @@
+Please Read: Bonus Project Introduction
+The taxi project is a very condensed project containing many core concepts taught in the course.
+
+You can use this project for both practicing your knowledge and also as a quick "refresher" in case you haven't used Power BI for a while. It's fully optional though as we covered all features applied (and a lot more) throughout the course already.

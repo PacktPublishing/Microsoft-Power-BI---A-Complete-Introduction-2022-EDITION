@@ -1,0 +1,10 @@
+About this Module
+Bonus content
+
+The following two lectures are standalone lectures and not related to the course project. Both lectures cover individual Power BI features and show example use cases of these.
+
+---
+
+For the "Group By, Big Data & DAX Studio" lecture no source file is provided as the file size (1.8 GB) simply is too big to attach it here. Please use this lecture as a reference for your own datasets, the idea is just to show you some slightly more advanced features and example usecases of these in Power BI.
+
+Enjoy the optional lectures :)
