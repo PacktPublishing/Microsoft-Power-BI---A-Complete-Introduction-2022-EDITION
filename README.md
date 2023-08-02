@@ -1,3 +1,17 @@
+# Microsoft Power BI - A Complete Introduction [2023 EDITION]
+Discover how to use Microsoft’s Power BI tools, including Power BI Desktop, Power BI Pro (Service), and Power BI Developer
+
+# Course Description
+Learn to achieve your business intelligence goals with Power BI’s comprehensive tools in this video course. Whether you need to analyze data from single or multiple sources, create captivating visualizations, or share results with colleagues, Power BI has you covered.
+
+Starting with the course objectives and an introduction to Power BI Desktop, you’ll explore connecting Power BI to various source types using the Query Editor. Understand the data model and establish relationships between tables. Develop visuals in the report view and efficiently share your work using Power BI Pro. Practical hands-on assignments will reinforce your learning and application of concepts.
+
+Advance your skills by mastering data import from JSON, REST APIs, and MySQL Server. Discover tips to excel in the Power BI world and create custom visuals using TypeScript and Power BI Developer tools. Engage in exciting projects and revise previous topics to solidify your knowledge.
+
+Even if you are a complete beginner, don’t worry! The course includes a brief crash course on Power BI Desktop, making it accessible to all levels of learners.
+
+By the end of this course, you’ll confidently analyze data from various sources, build your datasets, and adeptly navigate the Power BI universe, understanding how its tools synergize. Propel your business intelligence journey with Power BI expertise!
+
 # Supplementary Course Resources
 
 This is the code repository for [Microsoft Power BI - A Complete Introduction [Video]](https://www.packtpub.com/product/microsoft-power-bi-a-complete-introduction-2022-edition-video/9781789959031), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
