@@ -6,7 +6,7 @@ You may use these resources to compare your project state against our project (e
 
 # How To Find The Right Resources
 
-The resources are organized into various branches. **Every branch (except for the "main" branch) belongs to a specific course section** - the branch name indicates which section it belongs to. For example, the branch [01-getting-started]([PacktPublishing/Microsoft-Power-BI---A-Complete-Introduction-2022-EDITION/tree/01-getting-started](https://github.com/PacktPublishing/Microsoft-Power-BI---A-Complete-Introduction-2023-EDITION/tree/01-getting-started)) belongs to the first course section "Getting Started".
+The resources are organized into various branches. **Every branch (except for the "main" branch) belongs to a specific course section** - the branch name indicates which section it belongs to. For example, the branch [01-getting-started](/PacktPublishing/Microsoft-Power-BI---A-Complete-Introduction-2023-EDITION/tree/01-getting-started) belongs to the first course section "Getting Started".
 
 The "main" branch contains all source files used in the course and the course slides.
 
